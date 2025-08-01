@@ -13,8 +13,10 @@ npm run dev
 
 4. You must show an error state if fetching the users fails. (you can just display the error's message in a paragraph)
 
-5. You can use axios for the request for bonus points.
+Bonus Tasks
 
-6. You can complete the empty User interface and use it for bonus points.
+1. You can use axios for the request for bonus points.
 
-7. The grid rows are currently rendering only 3 elements per row, leaving a lot of empty space between the User cards, you can set them to 5 elements per row for bonus points and better styling.
+2. You can complete the empty User interface and use it for bonus points.
+
+3. The grid rows are currently rendering only 3 elements per row, leaving a lot of empty space between the User cards, you can set them to 5 elements per row for bonus points and better styling.
